@@ -1,5 +1,4 @@
-library(data.table)
-library(RCurl)
+
 
 request<-function(name,subject=NA,date=NA,time=NA,date_meet=NA,comment=NA){
   r<-fread("requests.csv",showProgress=FALSE)
@@ -19,7 +18,6 @@ request<-function(name,subject=NA,date=NA,time=NA,date_meet=NA,comment=NA){
       time<-substr(ct,12,19)
     }
     add<-data.frame(name,subject,date,time,date_meet,comment,stringsAsFactors=FALSE)
-  
     #g<-getURL("https://raw.githubusercontent.com/frousseu/timebudget/master/requests.csv") # Ce fichier est sur mon github
     #g<-read.csv(text=g,header=TRUE,stringsAsFactors=FALSE)
     r<-rbind(r,add)
