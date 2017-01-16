@@ -25,11 +25,11 @@ request<-function(name,subject=NA,date=NA,time=NA,date_meet=NA,comment=NA){
   }
   r<-unique(r)
   r<-r[order(r[,"date"],r[,"time"]),]
-  fwrite(r,file="requests.csv",sep=";",showProgress=FALSE)
+  fwrite(r,file="requests.csv",showProgress=FALSE)
 }
 
 request("SRivest",sub="curve fitting GAM",time="12:10:00",date_meet="2017-01-16",comment="also check how to get variance")
-request("NTran",sub="incubation package",time="14:20:00",date_meet="2017-01-16",comment="optimisation, github, packages,etc.")
+request("NTran",sub="incubation package",time="14:20:00",date_meet="2017-01-16",comment="optimisation github packages etc.")
 request("ELefol",sub="DBTREScheck",date="2017-01-12",time="10:00:00",date_meet="2017-01-16",comment="consult Nghia and Dave")
 request("BShipley",sub="PathAnalysisCourse",date="2017-01-11",time="10:00:00",date_meet="2017-01-11",comment="")
 request("RBradley",sub="mahalanobsis",date="2017-01-09",time="11:00:00")
