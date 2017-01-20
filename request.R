@@ -1,7 +1,7 @@
 
 library(data.table)
 request<-function(name,subject=NA,date=NA,time=NA,date_meet=NA,comment=NA){
-  r<-fread("requests.csv",showProgress=FALSE)
+  r<-fread("requests.csv",showProgress=FALSE,na="")
   if(is.na(subject)){
     w<-max(which(r[,"name"]==name))
     if(!is.na(r[w,"date_meet"])){
@@ -35,7 +35,7 @@ request("BShipley",sub="PathAnalysisCourse",date="2017-01-11",time="10:00:00",da
 request("RBradley",sub="mahalanobsis",date="2017-01-09",time="11:00:00")
 request("MBélisle",sub="paper Yanick",date="2017-01-13",time="10:00:00",date_meet="2017-01-13",comment="")
 
-
+request(name="AMackay",date_meet="2017-01-20")
   
   
   
