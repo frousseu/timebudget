@@ -1,10 +1,14 @@
 name,subject,date,time,date_meet,comment
-RBradley,mahalanobsis,2017-01-09,11:00:00,,
-BShipley,PathAnalysisCourse,2017-01-11,10:00:00,2017-01-11,
-ELefol,DBTREScheck,2017-01-12,10:00:00,2017-01-16,consult Nghia and Dave
-MBélisle,paper Yanick,2017-01-13,10:00:00,2017-01-13,
-SRivest,curve fitting GAM,2017-01-16,12:10:00,2017-01-16,also check how to get variance
-NTran,incubation package,2017-01-16,14:20:00,2017-01-16,optimisation github packages etc.
-JTremblay,radar migration,2017-01-18,09:00:00,2017-01-18,avec F. Gagnon
-AMackay,circular stats,2017-01-18,13:00:00,,
-MBelluau,lmer mixed models,2017-01-18,13:15:00,,
+RBradley,mahalanobsis,2017-01-09,11:00:00,2017-01-20,
+BShipley,PathAnalysisCourse,2017-01-11,10:00:00,2017-01-20,
+ELefol,DBTREScheck,2017-01-12,10:00:00,2017-01-20,consult Nghia and Dave
+MBÃ©lisle,paper Yanick,2017-01-13,10:00:00,2017-01-20,
+SRivest,curve fitting GAM,2017-01-16,12:10:00,2017-01-20,also check how to get variance
+NTran,incubation package,2017-01-16,14:20:00,2017-01-20,optimisation github packages etc.
+JTremblay,radar migration,2017-01-18,09:00:00,2017-01-20,avec F. Gagnon
+AMackay,circular stats,2017-01-18,13:00:00,2017-01-20,
+MBelluau,lmer mixed models,2017-01-18,13:15:00,2017-01-20,
+ILaigle,random effects,2017-01-20,13:30:00,2017-01-20,
+DScott,response variable linear models,2017-01-20,13:30:30,2017-01-20,
+SEngelhardt,R coding,2017-01-20,16:00:00,,
+SYoga-Bengbate,non-linear mixed models,2017-01-21,21:30:00,,
