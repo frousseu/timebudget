@@ -1,13 +1,13 @@
 
 library(data.table)
 request<-function(name,subject=NA,date=NA,time=NA,date_meet=NA,comment=NA){
-  r<-fread("requests.csv",showProgress=FALSE,na="")
+  r<-fread("requests.csv",showProgress=FALSE,na="",encoding="UTF-8")
   if(is.na(subject)){
     w<-max(which(r[,"name"]==name))
-    if(!is.na(r[w,"date_meet"])){
+    if(!is.na(as.data.frame(r)[w,"date_meet"])){
       stop("A meeting date already exists")
     }else{
-      r[,"name"]<-date_meet
+      r[,"date_meet"]<-date_meet
     }
   }else{
     ct<-Sys.time()
@@ -36,8 +36,12 @@ request("RBradley",sub="mahalanobsis",date="2017-01-09",time="11:00:00")
 request("MBélisle",sub="paper Yanick",date="2017-01-13",time="10:00:00",date_meet="2017-01-13",comment="")
 
 request(name="AMackay",date_meet="2017-01-20")
+request(name="SEngelhardt",subject="R coding",date="2017-01-20",time="16:00:00")
+request(name="ILaigle",subject="random effects",date="2017-01-20",time="13:30:00",date_meet="2017-01-20")
+request(name="DScott",subject="response variable linear models",date="2017-01-20",time="13:30:30",date_meet="2017-01-20")
+request(name="SYoga-Bengbate",sub="non-linear mixed models",date="2017-01-21",time="21:30:00")
   
-  
+## entré AMackay date_meeting et Sol Robert et Alisi de DGravel et Idaline
   
   
   
