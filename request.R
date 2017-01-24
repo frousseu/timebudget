@@ -7,7 +7,7 @@ request<-function(name,subject=NA,date=NA,time=NA,date_meet=NA,comment=NA){
     if(!is.na(as.data.frame(r)[w,"date_meet"])){
       stop("A meeting date already exists")
     }else{
-      r[,"date_meet"]<-date_meet
+      r[w,"date_meet"]<-date_meet
     }
   }else{
     ct<-Sys.time()
@@ -24,8 +24,8 @@ request<-function(name,subject=NA,date=NA,time=NA,date_meet=NA,comment=NA){
     
   }
   r<-unique(r)
-  r<-r[order(r[,"date"],r[,"time"]),]
-  fwrite(r,file="requests.csv",showProgress=FALSE)
+   r<-r[order(r[,"date"],r[,"time"]),]
+ fwrite(r,file="requests.csv",showProgress=FALSE)
 }
 
 request("SRivest",sub="curve fitting GAM",time="12:10:00",date_meet="2017-01-16",comment="also check how to get variance")
@@ -40,7 +40,9 @@ request(name="SEngelhardt",subject="R coding",date="2017-01-20",time="16:00:00")
 request(name="ILaigle",subject="random effects",date="2017-01-20",time="13:30:00",date_meet="2017-01-20")
 request(name="DScott",subject="response variable linear models",date="2017-01-20",time="13:30:30",date_meet="2017-01-20")
 request(name="SYoga-Bengbate",sub="non-linear mixed models",date="2017-01-21",time="21:30:00")
-  
+request(name="MBelluau",date_meet="2017-01-24")  
+
+
 ## entré AMackay date_meeting et Sol Robert et Alisi de DGravel et Idaline
   
   
