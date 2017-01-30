@@ -43,7 +43,7 @@ request(name="SYoga-Bengbate",sub="non-linear mixed models",date="2017-01-21",ti
 request(name="MBelluau",date_meet="2017-01-24")  
 request(name="CGeoffroy",sub="Warblers")
 request(name="SYoga-Bengbate",date_meet="2017-01-25")
-
+request(name="CGeoffroy",date_meet="2017-01-25")
 
 ## entré AMackay date_meeting et Sol Robert et Alisi de DGravel et Idaline
   
