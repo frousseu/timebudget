@@ -44,6 +44,9 @@ request(name="MBelluau",date_meet="2017-01-24")
 request(name="CGeoffroy",sub="Warblers")
 request(name="SYoga-Bengbate",date_meet="2017-01-25")
 request(name="CGeoffroy",date_meet="2017-01-25")
+request(name="DScott",date_meet="2017-01-31")
+request(name="CCôté-Germain",sub="modèles mixtes et résidus")
+
 
 ## entré AMackay date_meeting et Sol Robert et Alisi de DGravel et Idaline
   
