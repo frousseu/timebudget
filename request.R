@@ -48,6 +48,7 @@ request(name="DScott",date_meet="2017-01-31")
 request(name="CCôté-Germain",sub="modèles mixtes et résidus")
 request(name="GMoreau",date_meet="2017-02-01")
 request (name="SEngelhardt",sub="further genealogy coding")
+request (name="L-ARenaud",sub="bayesian interval censoring",time="13:30:00")
 
 
 
