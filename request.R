@@ -49,6 +49,9 @@ request(name="CCôté-Germain",sub="modèles mixtes et résidus")
 request(name="GMoreau",date_meet="2017-02-01")
 request(name="SEngelhardt",sub="further genealogy coding")
 request(name="L-ARenaud",sub="bayesian interval censoring",time="13:30:00")
+request(name="IDrobyshev",sub="tree rings non-linearity",date="2017-02-07",time="23:25:00")
+request(name="RMarkgraf",sub="permanova",date="2017-02-08",time="15:47:00",comment="quick email to me and JA and SD")
+
 
 
 
