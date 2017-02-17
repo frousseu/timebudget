@@ -53,7 +53,7 @@ request(name="IDrobyshev",sub="tree rings non-linearity",date="2017-02-07",time=
 request(name="RMarkgraf",sub="permanova",date="2017-02-08",time="15:47:00",comment="quick email to me and JA and SD")
 request(name="GLetendre",sub="analyses stats",date="2017-02-11",time="10:15:00",comment="crédits de recherche avec MVellend")
 request(name="RMarkgraf",sub="multiple comparisons",time="13:00:00",date_meet="2017-02-13")
-
+request(name="GLetendre",date_meet="2017-02-17")
 
 
 ## entré AMackay date_meeting et Sol Robert et Alisi de DGravel et Idaline
