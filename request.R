@@ -56,6 +56,8 @@ request(name="RMarkgraf",sub="multiple comparisons",time="13:00:00",date_meet="2
 request(name="GLetendre",date_meet="2017-02-17")
 request(name="ILaigle",subject="model assumptions",date="2017-02-20",time="15:30:00",date_meet="2017-02-22")
 request(name="AAguilar-Melo",subject="graphics interactions")
+request(name="JTremblay",subject="radar maps",date="2017-02-27",time="13:30:00",date_meet="2017-02-27")
+request(name="SEngelhardt",subject="more reproductive overlap and order",date="2017-02-15",time="08:53:00",date_meet="2017-02-15")
 
 ## entré AMackay date_meeting et Sol Robert et Alisi de DGravel et Idaline
   
