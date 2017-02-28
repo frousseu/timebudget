@@ -55,7 +55,7 @@ request(name="GLetendre",sub="analyses stats",date="2017-02-11",time="10:15:00",
 request(name="RMarkgraf",sub="multiple comparisons",time="13:00:00",date_meet="2017-02-13")
 request(name="GLetendre",date_meet="2017-02-17")
 request(name="ILaigle",subject="model assumptions",date="2017-02-20",time="15:30:00",date_meet="2017-02-22")
-
+request(name="AAguilar-Melo",subject="graphics interactions")
 
 ## entré AMackay date_meeting et Sol Robert et Alisi de DGravel et Idaline
   
