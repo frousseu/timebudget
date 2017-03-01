@@ -8,6 +8,7 @@ request<-function(name,subject=NA,date=NA,time=NA,date_meet=NA,comment=NA){
       stop("A meeting date already exists")
     }else{
       r[w,"date_meet"]<-date_meet
+      r[w,"comment"]<-comment
     }
   }else{
     ct<-Sys.time()
