@@ -62,7 +62,9 @@ request(name="SEngelhardt",subject="more reproductive overlap and order",date="2
 request(name="AAguilar-Melo",date_meet="2017-03-01",comment="simple ratio index response variable, visreg legend")
 request(name="RBradley",date_meet="2017-03-01",comment="ideally within 4 weeks")
 request(name="IDrobyshev",date_meet="2017-02-20",comment="actually burned area influence subsequent burned area")
-## entré AMackay date_meeting et Sol Robert et Alisi de DGravel et Idaline
+request(name="IDrobyshev",sub="glmer models interpretation")
+request(name="NTran",sub="github rstudio workflow",time="10:53:00")
+
   
   
   
