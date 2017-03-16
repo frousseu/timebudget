@@ -66,6 +66,7 @@ request(name="IDrobyshev",sub="glmer models interpretation")
 request(name="NTran",sub="github rstudio workflow",time="10:53:00")
 request(name="M-APoirier",sub="random permutations",time="13:30:00")
 request(name="ELefol",sub="ICC repeatability",time="15:00:00",date_meet="2017-03-14")
+request(name="JAllostry",sub="moustiques intro stats R",date="2017-03-15",time="19:00:00")
 
   
   
