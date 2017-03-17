@@ -67,7 +67,7 @@ request(name="NTran",sub="github rstudio workflow",time="10:53:00")
 request(name="M-APoirier",sub="random permutations",time="13:30:00")
 request(name="ELefol",sub="ICC repeatability",time="15:00:00",date_meet="2017-03-14")
 request(name="JAllostry",sub="moustiques intro stats R",date="2017-03-15",time="19:00:00")
-
-  
+request(name="SDufour",sub="proportion mixed-models woodpeckers",date="2017-03-16",time="16:04:00")
+request(name="BShipley",sub="package building",date="2017-03-17",time="11:00:00")  
   
   
