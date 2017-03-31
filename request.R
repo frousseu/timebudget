@@ -71,5 +71,6 @@ request(name="SDufour",sub="proportion mixed-models woodpeckers",date="2017-03-1
 request(name="BShipley",sub="package building",date="2017-03-17",time="11:00:00")  
 request(name="ABecker-Scarpitta",sub="model interpretation",date="2017-03-22",time="09:30:00",date_meet="2017-03-22") 
 request(name="CGeoffroy",sub="hierarchical randomisation",date="2017-03-22",time="15:00:00",comment="demande de MBélisle")
-  
+request(name="M-LLecuyer",sub="binomial model spatial autocorrelation",date="2017-03-30",time="18:00:00",date_meet="2017-03-31") 
+request(name="L-ARenaud",sub="NDVI extractions",date="2017-03-31",time="16:00:00") 
   
