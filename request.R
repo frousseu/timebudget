@@ -73,4 +73,12 @@ request(name="ABecker-Scarpitta",sub="model interpretation",date="2017-03-22",ti
 request(name="CGeoffroy",sub="hierarchical randomisation",date="2017-03-22",time="15:00:00",comment="demande de MBélisle")
 request(name="M-LLecuyer",sub="binomial model spatial autocorrelation",date="2017-03-30",time="18:00:00",date_meet="2017-03-31") 
 request(name="L-ARenaud",sub="NDVI extractions",date="2017-03-31",time="16:00:00") 
+request(name="L-ARenaud",date_meet="2017-04-04") 
+request(name="CGeoffroy",date_meet="2017-03-23")
+request(name="JAllostry",date_meet="2017-03-21")
+request(name="NTran",date_meet="2017-03-04")
+request(name="M-APoirier",date_meet="2017-03-14")
+request(name="BShipley",date_meet="2017-03-21") 
+request(name="VGagnon",sub="RDA",date="2017-04-17",time="20:00:02",comment="Labo Sebastien Roy") 
+request(name="MBelluau",sub="révision article mat, mét, rés",date="2017-04-11",time="11:00:00") 
   
