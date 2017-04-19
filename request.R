@@ -82,4 +82,7 @@ request(name="BShipley",date_meet="2017-03-21")
 request(name="VGagnon",sub="RDA",date="2017-04-17",time="20:00:02",comment="Labo Sebastien Roy") 
 request(name="MBelluau",sub="révision article mat, mét, rés",date="2017-04-11",time="11:00:00") 
 request(name="AWotherspoon",sub="R code",date="2017-04-13",time="15:57:00") 
-  
+request(name="AWotherspoon",date_meet="2017-04-19")  
+request(name="APréfontaine",sub="quantile regression",date="2017-04-19",date_meet="2017-04-19",time="13:30:00") 
+request(name="VLemieux",sub="assumptions mixed-models",date="2017-04-19",date_meet="2017-04-19",time="11:00:00")
+request(name="FPelletier",sub="equation error",date="2017-04-19",date_meet="2017-04-19",time="11:30:00")
