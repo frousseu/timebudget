@@ -87,3 +87,5 @@ request(name="APréfontaine",sub="quantile regression",date="2017-04-19",date_me
 request(name="VLemieux",sub="assumptions mixed-models",date="2017-04-19",date_meet="2017-04-19",time="11:00:00")
 request(name="FPelletier",sub="equation error",date="2017-04-19",date_meet="2017-04-19",time="11:30:00")
 request(name="CGeoffroy",sub="survival analysis",date="2017-04-20",date_meet="2017-04-21",time="15:30:00")
+request(name="ABecker-Scarpitta",sub="resume review",date="2017-05-17",date_meet="2017-05-17",time="11:00:00")
+request(name="ABecker-Scarpitta",sub="variation of community altitudes",date="2017-05-15",date_meet="2017-05-15",time="10:00:00")
