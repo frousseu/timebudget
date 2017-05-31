@@ -89,3 +89,15 @@ request(name="FPelletier",sub="equation error",date="2017-04-19",date_meet="2017
 request(name="CGeoffroy",sub="survival analysis",date="2017-04-20",date_meet="2017-04-21",time="15:30:00")
 request(name="ABecker-Scarpitta",sub="resume review",date="2017-05-17",date_meet="2017-05-17",time="11:00:00")
 request(name="ABecker-Scarpitta",sub="variation of community altitudes",date="2017-05-15",date_meet="2017-05-15",time="10:00:00")
+
+request(name="SEngelhardt",sub="code optimization",date="2017-05-25",date_meet="2017-05-29",time="13:32:00")
+request(name="MBujold",sub="cross-validation on wood volume",date="2017-05-30",date_meet="2017-05-30",time="15:15:00")
+request(name="EMoreau",sub="CI on nls",date="2017-05-29",date_meet="2017-05-29",time="12:12:00")
+request(name="FGagnon",sub="arrows on maps",date="2017-05-30",date_meet="2017-05-30",time="15:00:00")
+
+
+
+
+
+
+
